@@ -8,7 +8,7 @@ public class PhrasOMat {
 
         String [] wortListeZwei = {"gepowerte", "haftende", "Mehrwert-", "zentrierte", "geclusterte", "proaktive",
         "Out-of-the-Box", "positionierte", "vernetzte", "fokussierte", "kraftvolle", "geordnete", "geteilte",
-        "kooperative", "beschleunigte", "Multi-Tier", "Enterprise-", "B2B", "Frontend-"};
+        "kooperative", "beschleunigte", "Multi-Tier", "Enterprise-", "B2B", "Frontend-", "vermerkelte"};
 
         String[] wortListeDrei = {"Schicht", "Endstufe", "Lösung", "Architektur", "Kernkompetenz", "Strategie",
         "Kooperation", "Ausrichtung", "Räumlichkeit", "Vision", "Dimension", "Mission"};
