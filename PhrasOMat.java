@@ -1,5 +1,7 @@
 public class PhrasOMat {
 
+	//PhrasOMat als Übung für Arrays und den ersten Einsatz von Math.random
+
     public static void main(String[] args){
     //Drei Wortgruppen erstellen, aus denen ausgewählt wird
         String[] wortListeEins = {"verlässliche", "erfolgsorientierte", "webbasierte", "allumfassende",
