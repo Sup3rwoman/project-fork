@@ -5,7 +5,7 @@ public class PhrasOMat {
     public static void main(String[] args){
     //Drei Wortgruppen erstellen, aus denen ausgewählt wird
         String[] wortListeEins = {"verlässliche", "erfolgsorientierte", "webbasierte", "allumfassende",
-        "clevere", "kundenorientierte", "pfadkritische", "dynamische", "konkurrenzfähige", "verteilte",
+        "clevere", "kundenorientierte", "pfadkritische", "dynamische", "konkurrenzfähige", "verbeulte",
         "zielgerichtete"};
 
         String [] wortListeZwei = {"gepowerte", "haftende", "Mehrwert-", "zentrierte", "geclusterte", "proaktive",
